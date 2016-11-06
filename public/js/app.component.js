@@ -24,7 +24,7 @@ System.register(['@angular/core'], function(exports_1, context_1) {
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: "\n        <h1>My Angular 2.0.0 (first release) project inside Laravel 5</h1>\n        <p>Enjoyed!!</p>\n    ",
+                        template: "\n        <h1>My First App Configuration In</h1>\n        <div class=\"title\">Angular 2</div>\n    ",
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);

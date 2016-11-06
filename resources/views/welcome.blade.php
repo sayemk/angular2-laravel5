@@ -90,7 +90,7 @@
         <div class="container">
             <div class="content">
                 <my-app>Loading...</my-app>
-                <div class="title">Laravel 5</div>
+
             </div>
         </div>
     </body>
